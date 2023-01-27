@@ -1,0 +1,4 @@
+Add links to home, about, contact us, serives, and project code
+complete the : function zodiac_sign(day1, day2, month1, month2) // refer https://www.geeksforgeeks.org/program-display-astrological-sign-zodiac-sign-given-date-birth/amp/
+return astroSign as string 
+bind with output and print it.

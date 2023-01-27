@@ -1,0 +1,32 @@
+#submit{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 2px 5px;
+    color: black;
+    font-weight: 500;
+}
+
+#title{
+    color: rgb(126, 7, 244);
+    font-weight: 600;
+}
+
+header{
+    background-color: azure;
+}
+
+#project_code{
+    border: 2px solid black;
+    font-weight: 550;
+}
+
+#Zodiac_letters{
+    color: black;
+    font-weight: bold;
+}
+
+#output{
+    font-weight: 500;
+    color: black;
+    padding: 20px 0px ;
+  }
